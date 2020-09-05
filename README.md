@@ -6,3 +6,5 @@ Programming language: Python and NodeJs
 This TGbot Created by https://t.me/UzB2oo3
 
 Telegram Chanel: https://t.me/iDevelopersUz
+
+Example bot @UzDown_Bot
